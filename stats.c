@@ -9,16 +9,15 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file <stats.c> 
+ * @brief <this code generate statistics information about an array of unsigned char >
  *
- * <Add Extended Description Here>
+ * <the file take an array and analyze its statistics>
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author <Omar essam>
+ * @date <11/7/2019>
  *
  */
-
 
 
 #include <stdio.h>
